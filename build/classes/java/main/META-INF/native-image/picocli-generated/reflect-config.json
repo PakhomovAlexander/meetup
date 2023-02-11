@@ -1,0 +1,12 @@
+[
+  {
+    "name" : "meetup.app.MeetupApp",
+    "allDeclaredConstructors" : true,
+    "allPublicConstructors" : true,
+    "allDeclaredMethods" : true,
+    "allPublicMethods" : true,
+    "fields" : [
+      { "name" : "name" }
+    ]
+  }
+]
